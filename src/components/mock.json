@@ -1,0 +1,25 @@
+[
+    {
+      "image": "https://source.unsplash.com/random/900×700/?building",
+      "title": "Your Dream House",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quo nemo nulla, fugit ex ad maxime debitis. ",
+      "interval" : 2500
+
+    },
+    {
+      "image": "https://source.unsplash.com/random/900×700/?monuments",
+      "title": "Always Dedicated",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quo nemo nulla, fugit ex ad maxime debitis. ",
+      "interval" : 2500
+     
+    },
+    {
+      "image": "https://source.unsplash.com/random/900×700/?bungalow",
+      "title": "True Construction",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quo nemo nulla, fugit ex ad maxime debitis. ",
+      "interval" : 2500
+      
+    }
+
+
+]
